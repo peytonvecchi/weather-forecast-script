@@ -1,4 +1,6 @@
 # weather-forecast-script
+This is my first functioning Python project!
+
 Python Weather Forecast Generator
 
 This code will generate a forecast using open weather API, and then send the forecast to a gmail account.
