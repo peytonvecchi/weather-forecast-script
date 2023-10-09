@@ -97,14 +97,6 @@ min temp: {min_max[1]}
 average precip: {averages[1]}
 max precip: {min_max[2]}
 min precip: {min_max[3]}
-
---motivational verse-- :)
-
-James 1:2-4
-
-Conider it all joy, my brethren, when you encounter various trials, knowing that the testing of your faith produces endurance. 
-And let endurance have its perfect result so that you may be perfect and complete, lacking in nothing.
-
 """
 
 send_email(email_message=message)
