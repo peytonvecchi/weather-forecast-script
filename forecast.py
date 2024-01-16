@@ -48,8 +48,8 @@ def send_email(email_message):
         connection.sendmail(from_addr='add email here', to_addrs='add email here',
         msg=message)
 
-API_KEY = "key from open weather"
-SPACE_KEY = "key from geolocation"
+API_KEY = #key from open weather
+SPACE_KEY = #key from geolocation
 LAT = #add lat here
 LON = #add lon here
 UNITS = "imperial"
